@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./ritul-mastkar.png">
+</p>
 <h1 align="center">Hi 👋, I'm Ritul Mastkar</h1>
 
 <h3 align="center">
