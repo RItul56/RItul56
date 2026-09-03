@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Ritul Mastkar</h1>
+
+<h3 align="center">
+Full-Stack Developer • AI/ML • Cybersecurity
+</h3>
 <pre>
                                                                                   . . .  . .  . . . . . . . . . . . . . . . . . 
                                                                                 .  . .  .   . . . .  . . . . . . . . . . . . . .
@@ -76,11 +81,6 @@
     .    .                     ....··:@@@@XXXXXXXXX===:·...·::·:··:·.... ... .            . .  . ..·::·      .................·.
   .    .      .    .      . ......·..+@@@@@XXXXXXXXXX==++;·......... .                . . . . . . ·:::·.        ............·...
 </pre>
-<h1 align="center">Hi 👋, I'm Ritul Mastkar</h1>
-
-<h3 align="center">
-Full-Stack Developer • AI/ML • Cybersecurity
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Cybersecurity+Explorer;C%2B%2B+%7C+Python+Developer;Building+Projects+%26+Learning+DSA;Exploring+Open+Source" />
